@@ -1,0 +1,294 @@
+# Copyright (C) 2024 Yard | Digital Agency
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yunits for WP 1.12.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yunits-for-wp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-28T11:31:56+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: yunits-for-wp\n"
+
+#. Plugin Name of the plugin
+#: yunits-for-wp.php
+#: src/Providers/SettingsServiceProvider.php:58
+#: src/Providers/SettingsServiceProvider.php:59
+#: assets/js/admin/containers/Settings.js:131
+#: dist/admin.js:1
+msgid "Yunits for WP"
+msgstr ""
+
+#. Description of the plugin
+#: yunits-for-wp.php
+msgid "Integrate a Yunits Community with WordPress and vice versa."
+msgstr ""
+
+#. Author of the plugin
+#: yunits-for-wp.php
+msgid "Yard | Digital Agency"
+msgstr ""
+
+#. Author URI of the plugin
+#: yunits-for-wp.php
+msgid "https://www.yard.nl"
+msgstr ""
+
+#: src/Controllers/ApiController.php:271
+msgid "You do not have permissions to manage options."
+msgstr ""
+
+#: src/Providers/AgendaServiceProvider.php:49
+#: assets/js/admin/containers/Settings.js:33
+#: assets/js/admin/containers/Settings.js:229
+#: dist/admin.js:1
+msgid "Agendas"
+msgstr ""
+
+#: src/Providers/AgendaServiceProvider.php:50
+#: assets/js/admin/containers/Settings.js:32
+#: dist/admin.js:1
+msgid "Agenda"
+msgstr ""
+
+#. translators: %s is the singular label
+#: src/Providers/AgendaServiceProvider.php:61
+#: src/Providers/AgendaServiceProvider.php:67
+#: src/Providers/NewsServiceProvider.php:57
+#: src/Providers/NewsServiceProvider.php:63
+msgid "New %s"
+msgstr ""
+
+#. translators: %s is the singular label
+#: src/Providers/AgendaServiceProvider.php:63
+#: src/Providers/NewsServiceProvider.php:59
+msgid "Add New %s"
+msgstr ""
+
+#. translators: %s is the singular label
+#: src/Providers/AgendaServiceProvider.php:65
+#: src/Providers/NewsServiceProvider.php:61
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s is the singular label
+#: src/Providers/AgendaServiceProvider.php:69
+#: src/Providers/NewsServiceProvider.php:65
+msgid "View %s"
+msgstr ""
+
+#. translators: %s is the plural label
+#: src/Providers/AgendaServiceProvider.php:71
+#: src/Providers/NewsServiceProvider.php:67
+msgid "Search %s"
+msgstr ""
+
+#. translators: %s is the plural label
+#: src/Providers/AgendaServiceProvider.php:73
+#: src/Providers/NewsServiceProvider.php:69
+msgid "No %s Found"
+msgstr ""
+
+#. translators: %s is the plural label
+#: src/Providers/AgendaServiceProvider.php:75
+#: src/Providers/NewsServiceProvider.php:71
+msgid "No %s found in Trash"
+msgstr ""
+
+#: src/Providers/AgendaServiceProvider.php:108
+msgid "Start Date"
+msgstr ""
+
+#: src/Providers/AgendaServiceProvider.php:109
+msgid "End Date"
+msgstr ""
+
+#: src/Providers/NewsServiceProvider.php:45
+#: src/Providers/NewsServiceProvider.php:46
+#: assets/js/admin/containers/Settings.js:46
+#: assets/js/admin/containers/Settings.js:47
+#: assets/js/admin/containers/Settings.js:290
+#: dist/admin.js:1
+msgid "News"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:101
+msgid "Every day"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:105
+msgid "Every 12 hours"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:109
+msgid "Every 6 hours"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:113
+msgid "Every 4 hours"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:117
+msgid "Every 2 hours"
+msgstr ""
+
+#: src/Providers/SettingsServiceProvider.php:121
+msgid "Every hour"
+msgstr ""
+
+#: src/Services/ApiService.php:124
+msgid "Yunits Theme's"
+msgstr ""
+
+#: src/Services/ApiService.php:135
+msgid "Yunits theme"
+msgstr ""
+
+#: src/Services/ApiService.php:136
+msgid "All Yunits theme's"
+msgstr ""
+
+#: src/Services/ApiService.php:137
+msgid "Edit Yunits theme"
+msgstr ""
+
+#: src/Services/ApiService.php:138
+msgid "View Yunits theme"
+msgstr ""
+
+#: src/Services/ApiService.php:139
+msgid "Update Yunits theme"
+msgstr ""
+
+#: src/Services/ApiService.php:140
+msgid "Add New Yunits theme"
+msgstr ""
+
+#: src/Services/ApiService.php:141
+msgid "New Yunits theme Name"
+msgstr ""
+
+#: src/Services/ApiService.php:142
+msgid "Search Yunits theme's"
+msgstr ""
+
+#: src/Services/ApiService.php:143
+msgid "Popular Yunits theme's"
+msgstr ""
+
+#: src/Services/ApiService.php:144
+msgid "Separate Yunits theme's with comma"
+msgstr ""
+
+#: src/Services/ApiService.php:145
+msgid "Choose from most used Yunits theme's"
+msgstr ""
+
+#: src/Services/ApiService.php:146
+msgid "No Yunits theme's found"
+msgstr ""
+
+#: assets/js/admin/components/Loader.js:10
+#: dist/admin.js:1
+msgid "Loading"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:142
+#: dist/admin.js:1
+msgid "API Connection Settings"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:150
+#: dist/admin.js:1
+msgid "URL"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:151
+#: dist/admin.js:1
+msgid "The address to your Yunits Community platform e.g. https://www.yunits.com"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:166
+#: dist/admin.js:1
+msgid "Client ID"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:179
+#: dist/admin.js:1
+msgid "Client Secret"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:192
+#: dist/admin.js:1
+msgid "Schedule"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:207
+#: dist/admin.js:1
+msgid "Timeout (seconds)"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:247
+#: assets/js/admin/containers/Settings.js:307
+#: dist/admin.js:1
+msgid "Singular name"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:259
+#: assets/js/admin/containers/Settings.js:319
+#: dist/admin.js:1
+msgid "Plural name"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:275
+#: assets/js/admin/containers/Settings.js:335
+#: assets/js/admin/containers/Settings.js:422
+#: dist/admin.js:1
+msgid "Trigger manual import"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:350
+#: dist/admin.js:1
+msgid "Knowledge Bases"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:367
+#: dist/admin.js:1
+msgid "Select the post type(s) you're using for your FacetWP knowledge base(s) and synchronize the Yunits theme's as taxonomies."
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:383
+#: assets/js/admin/containers/Settings.js:408
+#: dist/admin.js:1
+msgid "Select one"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:392
+#: dist/admin.js:1
+msgid "Select the post type(s) which should be picked back up by Yunits for synchronization on their side."
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:434
+#: dist/admin.js:1
+msgid "Single Sign On"
+msgstr ""
+
+#. translators: %s: plugin link
+#: assets/js/admin/containers/Settings.js:441
+#: dist/admin.js:2
+msgid "We recommend you use the <a>Daggerhart OpenID Connect Generic</a> plugin to implement a SSO with your Yunits Community."
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:458
+#: dist/admin.js:2
+msgid "You can use these scopes:"
+msgstr ""
+
+#: assets/js/admin/containers/Settings.js:470
+#: dist/admin.js:2
+msgid "Save"
+msgstr ""
